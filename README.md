@@ -26,3 +26,5 @@
 <p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=zahidchand&show_icons=true&locale=en&theme=blue-green" alt="zahidchand" width="400" /></p> 
 
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zahidchand&theme=dark)](https://git.io/streak-stats)
+   
+   [![Zahid's github activity graph](https://activity-graph.herokuapp.com/graph?username=zahidchand&theme=react-dark)](https://github.com/zahidchand/github-readme-activity-graph)
