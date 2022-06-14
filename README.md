@@ -9,11 +9,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidchand&label=Profile%20views&color=0e75b6&style=flat" alt="zahidchand" /> </p>
 
 
-- 🔭 I’m Currently Working On Angular
-- 🌱 I’m Currently Learning Angular And React
-- 👯 I’m Looking To Collaborate On Angular
-- 🤔 I’m Looking For help with Angular And Spring Boot
-- 💬 Ask Me About Data Structure,Java,JavaScript,Angular
-- 📫 How To Reach Me: chandzahid333@gmail.com
-- ⚡ Fun fact: Like To Play Video Games
+- 🔭 I’m currently working on **Angular**
+
+- 🌱 I’m currently learning **Angular And React**
+
+- 👯 I’m Looking To Collaborate On **Angular**
+
+- 🤔 I’m Looking For help with **Angular And Spring Boot**
+
+- 💬 Ask me about **Data Structure,Java,JavaScript,Angular**
+
+- 📫 How to reach me **chandzahid333@gmail.com**
+
+- ⚡ Fun fact **I Like To Play Video Games**
 
