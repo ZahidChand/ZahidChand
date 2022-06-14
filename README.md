@@ -25,3 +25,4 @@
 
 <p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=zahidchand&show_icons=true&locale=en&theme=blue-green" alt="zahidchand" width="400" /></p> 
 
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zahidchand&theme=dark)](https://git.io/streak-stats)
