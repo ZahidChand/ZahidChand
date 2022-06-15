@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **chandzahid333@gmail.com**
 
-- ⚡ Fun fact **I Like To Play Video Games**
+- ⚡ Fun fact **I Like To Play Video Games** 
 
 <p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=zahidchand&show_icons=true&locale=en&theme=blue-green" alt="zahidchand" width="400" /></p> 
 
