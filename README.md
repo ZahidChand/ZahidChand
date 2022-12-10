@@ -27,8 +27,9 @@
 
 <p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=zahidchand&show_icons=true&locale=en&theme=blue-green" alt="zahidchand" width="400" /></p> 
 
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zahidchand&theme=dark)](https://git.io/streak-stats)
-   
+<!--    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zahidchand&theme=dark)](https://git.io/streak-stats) -->
+   [![Zahid's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zahidchand&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
    ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="70" height="70"/>&nbsp;
