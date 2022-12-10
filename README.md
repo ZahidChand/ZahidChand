@@ -42,4 +42,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="Bitbucket" **alt="Bitbucket"width="60"height="60"/>
 </div>
    
-   ![Zahid's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zahidchand&theme=dracula)
+   ![Zahid's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zahidchand&theme=xcode)
