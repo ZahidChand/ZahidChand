@@ -11,15 +11,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidchand&label=Profile%20views&color=0e75b6&style=flat" alt="zahidchand" /> </p>
 
 
-- 🔭 I’m currently working on **ReactJs**
+- 🔭 I’m currently working on **Spring Boot and ReactJS**
 
-- 🌱 I’m currently learning **ReactJs And React**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👯 I’m Looking To Collaborate On **ReactJs**
 
 - 🤔 I’m Looking For help with **ReactJs And Spring Boot**
 
-- 💬 Ask me about **Data Structure,Java,JavaScript,Angular,ReactJs**
+- 💬 Ask me about **Data Structure,Java,Spring Boot,JavaScript,ReactJS**
 
 - 📫 How to reach me **chandzahid333@gmail.com**
 
@@ -42,4 +42,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="Bitbucket" **alt="Bitbucket"width="60"height="60"/>
 </div>
    
-   ![Zahid's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zahidchand&theme=xcode)
